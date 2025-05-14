@@ -5,7 +5,7 @@ This application allows users to stake ETH via the Lido protocol, display their 
 ## Features
 
 - Connects to Metamask wallet
--  Stake 0.1 ETH via the `Lido.submit()` function
+-  Stake 0.0001 ETH via the `Lido.submit()` function
 -  Displays the user's current `stETH` balance
 -  Provides an explanation of the unstake process via a modal (simulation)
 -  Tested on the Sepolia testnet
