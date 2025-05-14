@@ -1,0 +1,13 @@
+IPFS Blog:
+Live: https://ipfs.io/ipfs/bafybeig5vhjwyqohebwjlwg56hj4fbjpaywsplcr3h2j5xvwsdnrh2s5yy
+
+ENS Domain (Sepolia):
+myweb3blog.eth
+The content hash is linked to the IPFS CID via the ENS interface.
+
+ENS Domain Registration:
+https://sepolia.etherscan.io/tx/0x672531d6382da5f86e97be4c183255c75f9dcfa2be454177965a30cb4307d89c
+
+Short Explanation:
+A simple blog was created and deployed to IPFS. Then, the ENS domain myweb3blog.eth was registered on the Sepolia testnet and configured to point to the IPFS website using a ContentHash record. The site is accessible via the IPFS link and works as expected.
+
